@@ -12,6 +12,9 @@ const Header = () => {
         <FaRegMoon className="text-blue-50"/> <FaRegSnowflake  className="text-blue-50"/>
         
       </div>
+      <div>
+        
+      </div>
     </>
   );
 };
