@@ -1,0 +1,28 @@
+.myimage {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+ 
+.myimage {
+    width: 200px;
+    height: auto;
+    animation: moveupdown 6s infinite ease;
+    box-shadow: 10px -10px 10px  grey;
+    border-radius: 100%;
+  }
+  
+
+@keyframes moveupdown {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-30px); 
+    }
+    100% {
+      transform: translateY(0); 
+    }
+  }
+  
+      

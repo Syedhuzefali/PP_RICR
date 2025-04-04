@@ -1,0 +1,76 @@
+.intro{
+    font-size: larger;
+    color:whitesmoke;
+    font-weight:bolder;
+}
+.projects{
+   
+    height: 50rem;
+   
+}
+.ludoimage{
+    width: 100px;
+    height: 100px;
+    margin-top:30px;
+    margin-left: 30px;
+    border: 2px solid white;
+}
+.guessNumber{
+    width:100px;
+    height:100px;
+    margin-left: 30px;
+    border: 2px solid white;
+}
+.tipcalc{
+    width:100px;
+    height:100px;
+    margin-left: 30px;
+    border: 2px solid white;
+}
+.starRating{
+    width:100px;
+    height:100px;
+    margin-top: 10px;
+    margin-left: 30px;
+    border: 2px solid white;
+}
+.tech-heading{
+    margin: 50px 200px;
+    margin-bottom:400px;
+}
+@keyframes image {
+    from {
+      box-shadow: 0 0 5px #ffd412;
+    }
+    to {
+      box-shadow: 0 0 20px #ffd412;
+    }
+  }
+.ludoimage:hover{
+     cursor: pointer;
+     animation: image 1s infinite alternate-reverse;
+     transform: scale(1.2);
+}
+.guessNumber:hover{
+    cursor: pointer;
+    animation: image 1s infinite alternate-reverse;
+    transform: scale(1.2);
+}
+.tipcalc:hover{
+    cursor: pointer;
+    animation: image 1s infinite alternate-reverse;
+    transform: scale(1.2);
+}
+.starRating:hover{
+    cursor: pointer;
+    animation: image 1s infinite alternate-reverse;
+    transform: scale(1.2);
+}
+#click{
+    font-size: 20px;
+    width: 100px;
+}
+#click:hover{
+    background-color:goldenrod;
+}
+

@@ -1,0 +1,68 @@
+.adiyta-image{
+    margin: 50px auto;
+    width: 180px;
+    height: 180px;
+    margin-left:50px;
+    border-radius: 100%;
+}
+.krishna-image{
+    
+    margin: 50px auto;
+    margin-left: 50px;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+}
+.tanveer-image{
+    margin: 50px auto;
+    margin-left: 50px;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+}
+.feedback-section{
+    display: flex;
+    border: 5px solid black;
+    height:37rem;
+    background-color:lightslategray;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.aditya-reviews{
+    border: 2px solid;
+    width:550px;
+    height:500px;
+    margin-top:20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-image: url(https://st4.depositphotos.com/26065846/38318/i/450/depositphotos_383189588-stock-photo-abstract-graphic-pattern-seamless-background.jpg);
+}
+.krishna-reviews{
+    border: 2px solid;
+    width:550px;
+    height:500px;
+    margin-top:20px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-image: url(https://st4.depositphotos.com/26065846/38318/i/450/depositphotos_383189588-stock-photo-abstract-graphic-pattern-seamless-background.jpg);
+}
+.tanveer-reviews{
+    border: 2px solid;
+    width:550px;
+    height:500px;
+    margin-top:20px;
+    margin-left: 10px;
+    margin-right:10px;
+    border-radius: 10px;
+    background-image: url(https://st4.depositphotos.com/26065846/38318/i/450/depositphotos_383189588-stock-photo-abstract-graphic-pattern-seamless-background.jpg);
+}
+#review{
+    background-color:khaki;
+}
+#feedback-heading{
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+
+

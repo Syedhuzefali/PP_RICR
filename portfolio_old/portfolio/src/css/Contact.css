@@ -1,0 +1,14 @@
+.contact-details{
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    color: whitesmoke;
+    border: 1px solid black;
+    width:100%;
+    background-color:rgb(9, 9, 33);
+    font-style: italic;
+}
+.return-btn{
+    background-color: cornflowerblue;
+    font-size: 25px;
+}
